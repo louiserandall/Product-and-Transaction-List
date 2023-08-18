@@ -1,5 +1,6 @@
-# Product-and-Transaction-List
-Google Looker Visualisations
+# Product-and-Transaction-List of Sales Analysis
+
+Google Looker Visualisations and link to dashboard: https://lookerstudio.google.com/reporting/447e6361-42ff-4013-8b3c-07bc926a1c97
 
 Based on the given data, I need you to do the following:
 
